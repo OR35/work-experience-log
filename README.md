@@ -36,7 +36,7 @@ Frontend / Backend 기능 개발 경험을 정리한 실무 중심 포트폴리�
 
 | Project | Period | Role | Summary |
 |-------|-------|------|--------|
-| [지능형 센서 플랫폼](./projects/intelligent-sensor-platform) | 2023–현재 | Frontend / Backend |
+| [지능형 센서 플랫폼](./projects/intelligent-sensor-platform) | 2023–현재 | Frontend / Backend | IoT·AI 기반 플랫폼의 사용자/관리자 UI 및 운영 관리 기능 개발 |  
 
 👉 각 프로젝트의 상세 구현 내용은  
 해당 디렉토리의 README에서 확인할 수 있습니다.
