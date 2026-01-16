@@ -44,4 +44,4 @@ Frontend / Backend 기능 개발 경험을 정리한 실무 중심 포트폴리�
 ---
 
 About Me  
-👉 [PROFILE.md](./PROFILE.md)
+👉 [PROFILE](./PROFILE.md)
