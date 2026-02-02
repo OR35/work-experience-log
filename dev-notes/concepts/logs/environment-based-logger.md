@@ -21,4 +21,4 @@
 
 ---
 
-> **관련 코드:** [커스텀 Logger 구현체](../code-notes/logs/custom-logger-wrapper.md)
+> **관련 코드:** [커스텀 Logger 구현체](../../code-notes/logs/custom-logger-wrapper.md)
