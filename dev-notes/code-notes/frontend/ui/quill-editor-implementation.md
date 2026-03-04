@@ -63,4 +63,4 @@ quill.root.addEventListener('click', e => {
 
 ---
 
-> **관련 코드:** [Quill Editor 구현](../../code-notes/frontend/ui/quill-editor-implementation.md)
+> **관련 코드:** [Quill Editor 구현](../../../concepts/frontend/editor-library-migration.md)

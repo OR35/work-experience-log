@@ -24,4 +24,4 @@
 
 ---
 
-> **관련 코드:** [Quill Editor Migration 구현](../../dev-notes/code-notes/frontend/editor-library-migration.md)
+> **관련 코드:** [Quill Editor Migration 구현](../../../dev-notes/code-notes/frontend/ui/quill-editor-implementation.md)
