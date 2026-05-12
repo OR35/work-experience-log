@@ -22,4 +22,4 @@
 
 ---
 
-> **관련 코드:** [Composable 기반 검색 조건 복구 구현](../../dev-notes/code-notes/state/composable-search-restore.md)
+> **관련 코드:** [Composable 기반 검색 조건 복구 구현](../../code-notes/state/composable-search-restore.md)
